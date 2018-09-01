@@ -6,7 +6,8 @@
   "author": "Deborah Digges",
   "license": "MIT",
   "scripts": {
-    "dev": "pm2 start lib/server.js --watch --interpreter babel-node"
+    "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
+    "webpack": "webpack -wd"
   },
   "babel": {
     "presets": [

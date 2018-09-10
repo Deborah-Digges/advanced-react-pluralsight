@@ -38,9 +38,7 @@ exports[`ArticleList renders correctly 1`] = `
         }
       }
     >
-      <a
-        h={true}
-      >
+      <a>
          
       </a>
     </div>
@@ -88,9 +86,7 @@ exports[`ArticleList renders correctly 1`] = `
         }
       }
     >
-      <a
-        h={true}
-      >
+      <a>
          
       </a>
     </div>

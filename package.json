@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
+    "enzyme": "^2.9.1",
     "eslint": "^4.1.0",
     "eslint-plugin-react": "^7.1.0",
     "jest": "^23.5.0",

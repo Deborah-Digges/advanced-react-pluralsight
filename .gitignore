@@ -1,4 +1,5 @@
 yarn-error.log
 node_modules/
-public/bundle.js
+public/vendor.js
+public/app.js
 coverage
